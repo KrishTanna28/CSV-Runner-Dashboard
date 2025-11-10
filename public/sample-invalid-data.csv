@@ -1,0 +1,6 @@
+date,person,miles
+2024-01-01,John Doe,5.2
+invalid-date,Jane Smith,3.8
+2024-01-03,Mike Johnson,abc
+2024-01-04,,5.0
+2024-01-05,Sarah Williams,-3.2
